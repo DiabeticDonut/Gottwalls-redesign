@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.gottwalsbooks.com	TRUE	/	FALSE	1999999999	AHYGFwOo_u	7YNnuMrmdiX%5Dtpoy
+www.gottwalsbooks.com	TRUE	/	FALSE	1999999999	pdkAfeSqv	.3_i1lRc%5D%5BE9PIAD
+www.gottwalsbooks.com	TRUE	/	FALSE	1999999999	nYwIcBCzOr	6UOgc9LBP5Qqehy
+www.gottwalsbooks.com	TRUE	/	FALSE	1999999999	khNcDFAPWsaC	SqNFOzM5pnZLg
+
